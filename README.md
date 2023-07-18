@@ -6,3 +6,4 @@ Be ready to have a brain test! Let's test your memory power.
 ->In the next level you have to click the previous blinked first and then click the new one.
 
 So now have have a go
+->link:https://gargi-jais11.github.io/simon-game/
